@@ -4,7 +4,7 @@ npm-cache/
 
 # Build outputs
 .next/
-out/
+# out/ - keeping for Vercel deployment
 
 # Environment variables
 .env.local

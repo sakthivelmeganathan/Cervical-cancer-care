@@ -1,0 +1,4 @@
+:HL["/_next/static/chunks/c262e147183bb0fb.css","style"]
+:HL["/_next/static/chunks/dc081ceb336b88d1.css","style"]
+:HL["/_next/static/chunks/1012ff4278e48f29.css","style"]
+0:{"buildId":"8Rk-F_8PQ8pCqmd3lOUYY","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"doctor","paramType":null,"paramKey":"doctor","hasRuntimePrefetch":false,"slots":{"children":{"name":"patients","paramType":null,"paramKey":"patients","hasRuntimePrefetch":false,"slots":{"children":{"name":"id","paramType":"d","paramKey":"placeholder","hasRuntimePrefetch":false,"slots":{"children":{"name":"edit","paramType":null,"paramKey":"edit","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
